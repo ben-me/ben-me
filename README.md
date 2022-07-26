@@ -7,7 +7,7 @@
 ## Right now there are a few basic things on my to-do:
 - [ ] learn to code properly
 - [ ] work to get some experience
-- [ ] have an idea for the best sites/apps humanly possible
+- [ ] have ideas for the best sites/apps humanly possible
 - [ ] ???
 - [ ] Profit! 
 
